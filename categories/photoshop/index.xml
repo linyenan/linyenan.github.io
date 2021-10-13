@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photoshop on About An</title>
+    <link>https://linyenan.github.io/categories/photoshop/</link>
+    <description>Recent content in Photoshop on About An</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>Copyright &amp;copy; 2021 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Wed, 12 Jul 2017 12:14:34 +0600</lastBuildDate><atom:link href="https://linyenan.github.io/categories/photoshop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>網站banner製作</title>
+      <link>https://linyenan.github.io/portfolio/project-2/</link>
+      <pubDate>Wed, 12 Jul 2017 12:14:34 +0600</pubDate>
+      
+      <guid>https://linyenan.github.io/portfolio/project-2/</guid>
+      <description>1.圖文製作-一日辦公室體驗活動
+2.使用Photoshop製作</description>
+    </item>
+    
+    <item>
+      <title>網站banner製作</title>
+      <link>https://linyenan.github.io/portfolio/project-1/</link>
+      <pubDate>Mon, 12 Jun 2017 12:14:34 +0600</pubDate>
+      
+      <guid>https://linyenan.github.io/portfolio/project-1/</guid>
+      <description>1.圖文製作-場地出租
+2.使用Photoshop製作</description>
+    </item>
+    
+    <item>
+      <title>網站banner製作</title>
+      <link>https://linyenan.github.io/portfolio/project-3/</link>
+      <pubDate>Fri, 12 May 2017 12:14:34 +0600</pubDate>
+      
+      <guid>https://linyenan.github.io/portfolio/project-3/</guid>
+      <description>1.圖文製作-出租優惠活動
+2.使用Photoshop製作</description>
+    </item>
+    
+  </channel>
+</rss>

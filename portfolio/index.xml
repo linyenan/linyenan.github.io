@@ -7,25 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>Copyright &amp;copy; 2021 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Wed, 12 May 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://linyenan.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Sep 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://linyenan.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>BOXFUL網站切版</title>
-      <link>https://linyenan.github.io/portfolio/project-1/</link>
-      <pubDate>Wed, 12 May 2021 12:14:34 +0600</pubDate>
+      <title>寶島旅人瘋</title>
+      <link>https://linyenan.github.io/portfolio/project-7/</link>
+      <pubDate>Fri, 03 Sep 2021 12:14:34 +0600</pubDate>
       
-      <guid>https://linyenan.github.io/portfolio/project-1/</guid>
-      <description>1.資策會CSS的作業
+      <guid>https://linyenan.github.io/portfolio/project-7/</guid>
+      <description>1.資策會大專的作業
+2.使用html、css、Jquery、MySQL和PHP完成</description>
+    </item>
+    
+    <item>
+      <title>Your Cake網站切版</title>
+      <link>https://linyenan.github.io/portfolio/project-8/</link>
+      <pubDate>Wed, 30 Jun 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://linyenan.github.io/portfolio/project-8/</guid>
+      <description>1.資策會小專的作業
 2.使用html、css和Jquery完成</description>
     </item>
     
     <item>
-      <title>Shopee-吉吉代購</title>
-      <link>https://linyenan.github.io/portfolio/project-6/</link>
+      <title>BOXFUL網站切版</title>
+      <link>https://linyenan.github.io/portfolio/project-10/</link>
       <pubDate>Wed, 12 May 2021 12:14:34 +0600</pubDate>
       
-      <guid>https://linyenan.github.io/portfolio/project-6/</guid>
-      <description>1.蝦皮購物代購賣場
-2.經營時間2017年-2019年</description>
+      <guid>https://linyenan.github.io/portfolio/project-10/</guid>
+      <description>1.資策會CSS的作業
+2.使用html、css和Jquery完成</description>
     </item>
     
     <item>
@@ -39,9 +49,19 @@
     </item>
     
     <item>
+      <title>Shopee-吉吉代購</title>
+      <link>https://linyenan.github.io/portfolio/project-6/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://linyenan.github.io/portfolio/project-6/</guid>
+      <description>1.蝦皮購物代購賣場
+2.經營時間2017年-2019年</description>
+    </item>
+    
+    <item>
       <title>Shopee-買翻日本</title>
       <link>https://linyenan.github.io/portfolio/project-5/</link>
-      <pubDate>Wed, 12 May 2021 12:14:34 +0600</pubDate>
+      <pubDate>Thu, 12 Mar 2020 12:14:34 +0600</pubDate>
       
       <guid>https://linyenan.github.io/portfolio/project-5/</guid>
       <description>1.蝦皮購物日貨賣場
@@ -49,23 +69,33 @@
     </item>
     
     <item>
-      <title>Your Cake網站切版</title>
+      <title>網站banner製作</title>
       <link>https://linyenan.github.io/portfolio/project-2/</link>
-      <pubDate>Wed, 12 May 2021 12:14:34 +0600</pubDate>
+      <pubDate>Wed, 12 Jul 2017 12:14:34 +0600</pubDate>
       
       <guid>https://linyenan.github.io/portfolio/project-2/</guid>
-      <description>1.資策會小專的作業
-2.使用html、css和Jquery完成</description>
+      <description>1.圖文製作-一日辦公室體驗活動
+2.使用Photoshop製作</description>
     </item>
     
     <item>
-      <title>寶島旅人瘋</title>
+      <title>網站banner製作</title>
+      <link>https://linyenan.github.io/portfolio/project-1/</link>
+      <pubDate>Mon, 12 Jun 2017 12:14:34 +0600</pubDate>
+      
+      <guid>https://linyenan.github.io/portfolio/project-1/</guid>
+      <description>1.圖文製作-場地出租
+2.使用Photoshop製作</description>
+    </item>
+    
+    <item>
+      <title>網站banner製作</title>
       <link>https://linyenan.github.io/portfolio/project-3/</link>
-      <pubDate>Wed, 12 May 2021 12:14:34 +0600</pubDate>
+      <pubDate>Fri, 12 May 2017 12:14:34 +0600</pubDate>
       
       <guid>https://linyenan.github.io/portfolio/project-3/</guid>
-      <description>1.資策會大專的作業
-2.使用html、css、Jquery、MySQL和PHP完成</description>
+      <description>1.圖文製作-出租優惠活動
+2.使用Photoshop製作</description>
     </item>
     
   </channel>
